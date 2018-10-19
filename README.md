@@ -1,7 +1,7 @@
-# netzsouveraen
-Ein Online-Bildungsprojekt für digitale Souveränität 
+# netzsouveraen 
+🤖 Ein Online-Bildungsprojekt für digitale Souveränität 🤖
 
-## Die Idee
+## Die Idee 💡
 
 Für 2019 planen wir ein offenes Online-Bildungsprojekt, an dem sich Schülerinnen und Schüler (ab ca. Klasse 8), Lehrende, Studierende, Beschäftigte in der außerschulischen Jugendarbeit und Erwachsenenbildung, Auszubildende sowie alle anderen Interessierten beteiligen können. Der grundlegende Inhalt dieses Bildungsprojektes wird es sein, gemeinsam Schritte zu mehr digitaler Souveränität zu gehen. 
 
@@ -12,6 +12,9 @@ Das Bildungsprojekt soll dabei:
 
 Um gerade an Schulen eine möglichst einfache Beteiligung zu ermöglichen, wollen wir einen MOOC für Lehrende voranstellen, in dem sie mehr über den Hintergrund des Projekts erfahren und praktische Vorschläge zur Umsetzung im Unterricht erhalten.
 
-## Mitmachen!
+Netzsouverän ist ein Projekt im Rahmen der sechsten Runde des [Mozilla Open Leaders-Programms: Work Open, Lead Open](https://foundation.mozilla.org/de/opportunity/mozilla-open-leaders/). Im Rahmen dieses Programms wird das Projekt konzipiert und entwickelt. Dabei arbeite ich offen. Kommentare und Beteiligung jederzeit sehr, sehr gerne. Schau Dir dazu die [Projekt-Issues an](https://github.com/eBildungslabor/netzsouveraen/issues).
 
-Netzsouverän ist ein Projekt im Rahmen der sechsten Runde des [Mozilla Open Leaders-Programm: Work Open, Lead Open](https://foundation.mozilla.org/de/opportunity/mozilla-open-leaders/). Im Rahmen dieses Programms wird das Projekt konzipiert und entwickelt. Dabei arbeite ich offen. Kommentare und Beteiligung jederzeit sehr, sehr gerne. Schau Dir dazu die [Projekt-Issues an](https://github.com/eBildungslabor/netzsouveraen/issues).
+## Mitmachen 👀
+
+* Ende Oktober findet das #Mozfest statt, auf dem ich auf zahlreiche Inspirationen zur inhaltlichen Gestaltung des Projekts hoffe.
+* Wenn Du direkt mitmachen willst, dann [teile hier Deine Ideen als Kommentar](https://github.com/eBildungslabor/netzsouveraen/issues/3) 
